@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPredictor.BlazorApp", "BitPredictor.BlazorApp\BitPredictor.BlazorApp.csproj", "{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854C6C92-FA6F-4EF6-B72D-3A5A1C32CA04}
+	EndGlobalSection
+EndGlobal
