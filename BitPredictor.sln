@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPredictor.BlazorApp", "BitPredictor.BlazorApp\BitPredictor.BlazorApp.csproj", "{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitPredictor.BlazorApp", "BitPredictor.BlazorApp\BitPredictor.BlazorApp.csproj", "{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPredictor.Core", "BitPredictor.Core\BitPredictor.Core.csproj", "{22184F4A-E693-4AFD-8486-F01AAED818D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D864827-C7FC-4B2C-B46B-64FAD72BA21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22184F4A-E693-4AFD-8486-F01AAED818D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22184F4A-E693-4AFD-8486-F01AAED818D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22184F4A-E693-4AFD-8486-F01AAED818D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22184F4A-E693-4AFD-8486-F01AAED818D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
