@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bezrukov\\source\\repos\\BitPredictor\\BitPredictor.Core\\BitPredictor.Core.csproj": {}
+    "C:\\Users\\BezrukovGA\\source\\repos\\BitPredictor\\BitPredictor\\BitPredictor.Core\\BitPredictor.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bezrukov\\source\\repos\\BitPredictor\\BitPredictor.Core\\BitPredictor.Core.csproj": {
+    "C:\\Users\\BezrukovGA\\source\\repos\\BitPredictor\\BitPredictor\\BitPredictor.Core\\BitPredictor.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bezrukov\\source\\repos\\BitPredictor\\BitPredictor.Core\\BitPredictor.Core.csproj",
+        "projectUniqueName": "C:\\Users\\BezrukovGA\\source\\repos\\BitPredictor\\BitPredictor\\BitPredictor.Core\\BitPredictor.Core.csproj",
         "projectName": "BitPredictor.Core",
-        "projectPath": "C:\\Users\\bezrukov\\source\\repos\\BitPredictor\\BitPredictor.Core\\BitPredictor.Core.csproj",
-        "packagesPath": "C:\\Users\\bezrukov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bezrukov\\source\\repos\\BitPredictor\\BitPredictor.Core\\obj\\",
+        "projectPath": "C:\\Users\\BezrukovGA\\source\\repos\\BitPredictor\\BitPredictor\\BitPredictor.Core\\BitPredictor.Core.csproj",
+        "packagesPath": "C:\\Users\\BezrukovGA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BezrukovGA\\source\\repos\\BitPredictor\\BitPredictor\\BitPredictor.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bezrukov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\BezrukovGA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
