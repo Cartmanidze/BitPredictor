@@ -9,7 +9,6 @@ C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorAp
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\bin\Debug\netcoreapp3.0\BitPredictor.BlazorApp.pdb
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\bin\Debug\netcoreapp3.0\BitPredictor.BlazorApp.Views.dll
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\bin\Debug\netcoreapp3.0\BitPredictor.BlazorApp.Views.pdb
-C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\obj\Debug\netcoreapp3.0\BitPredictor.BlazorApp.csprojAssemblyReference.cache
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\obj\Debug\netcoreapp3.0\staticwebassets\BitPredictor.BlazorApp.StaticWebAssets.Manifest.cache
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\obj\Debug\netcoreapp3.0\staticwebassets\BitPredictor.BlazorApp.StaticWebAssets.xml
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\obj\Debug\netcoreapp3.0\BitPredictor.BlazorApp.MvcApplicationPartsAssemblyInfo.cache
@@ -45,3 +44,5 @@ C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorAp
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\obj\Debug\netcoreapp3.0\BitPredictor.BlazorApp.dll
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\obj\Debug\netcoreapp3.0\BitPredictor.BlazorApp.pdb
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\obj\Debug\netcoreapp3.0\BitPredictor.BlazorApp.csproj.CopyComplete
+C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\obj\Debug\netcoreapp3.0\BitPredictor.BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.BlazorApp\obj\Debug\netcoreapp3.0\BitPredictor.BlazorApp.genruntimeconfig.cache

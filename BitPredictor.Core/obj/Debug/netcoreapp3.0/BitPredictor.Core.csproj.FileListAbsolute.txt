@@ -1,8 +1,8 @@
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.Core\bin\Debug\netcoreapp3.0\BitPredictor.Core.deps.json
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.Core\bin\Debug\netcoreapp3.0\BitPredictor.Core.dll
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.Core\bin\Debug\netcoreapp3.0\BitPredictor.Core.pdb
-C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.Core\obj\Debug\netcoreapp3.0\BitPredictor.Core.csprojAssemblyReference.cache
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.Core\obj\Debug\netcoreapp3.0\BitPredictor.Core.AssemblyInfoInputs.cache
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.Core\obj\Debug\netcoreapp3.0\BitPredictor.Core.AssemblyInfo.cs
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.Core\obj\Debug\netcoreapp3.0\BitPredictor.Core.dll
 C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.Core\obj\Debug\netcoreapp3.0\BitPredictor.Core.pdb
+C:\Users\BezrukovGA\source\repos\BitPredictor\BitPredictor\BitPredictor.Core\obj\Debug\netcoreapp3.0\BitPredictor.Core.csproj.CoreCompileInputs.cache
