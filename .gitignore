@@ -4,4 +4,5 @@
 
 /.vs/BitPredictor/v16/Server/sqlite3
 *.config
-.suo
+*.cache
+*.v2
